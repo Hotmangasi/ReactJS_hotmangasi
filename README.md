@@ -1,3 +1,1 @@
-# ReactJS_hotmangasi
-
-## Ini merupakan develop
+### Ini merupakan penambahan fitur B
